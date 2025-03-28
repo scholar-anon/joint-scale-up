@@ -6,7 +6,7 @@ This project implements and compares various methods for estimating network size
 
 The easiest way to explore the results is through our Google Colab notebook:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scholar-anon/joint-scale-up/blob/main/code/colab_viewer.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scholar-anon/joint-scale-up/blob/main/colab_viewer.ipynb)
 
 This notebook provides:
 - Interactive visualization of results for each school
